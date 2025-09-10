@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <resources>
     <string name="greeting">こんにちは</string>
-    <string name="welcome_message">{name}さん、ようこそ！</string>
-    <string name="item_count">{count}個のアイテムがあります</string>
-    <string name="price_format">価格: {price}円</string>
-    <string name="date_format">今日は{day}、{month}月{date}日です</string>
-    <string name="complex_message">こんにちは{name}さん、{sender}から{count}件のメッセージがあります</string>
+    <string name="welcome_message">%1$sさん、ようこそ！</string>
+    <string name="item_count">%1$d個のアイテムがあります</string>
+    <string name="price_format">価格: %1$.2f円</string>
+    <string name="date_format">今日は%1$s、%2$s月%3$d日です</string>
+    <string name="complex_message">こんにちは%1$sさん、%3$sから%2$d件のメッセージがあります</string>
     <string name="frog">カエル</string>
     <string name="morning">朝</string>
     <string name="butterfly">蝶</string>

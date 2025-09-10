@@ -1,11 +1,11 @@
 {
   "@@locale": "en",
   "greeting": "Hello",
-  "welcome_message": "Welcome, {name}!",
-  "item_count": "You have {count} items",
-  "price_format": "Price: ${price}",
-  "date_format": "Today is {day}, {month} {date}",
-  "complex_message": "Hello {name}, you have {count} messages from {sender}",
+  "welcome_message": "Welcome, {param1}!",
+  "item_count": "You have {param1} items",
+  "price_format": "Price: ${param1}",
+  "date_format": "Today is {param1}, {param2} {param3}",
+  "complex_message": "Hello {param1}, you have {param2} messages from {param3}",
   "frog": "frog",
   "morning": "morning",
   "butterfly": "butterfly",
@@ -37,22 +37,22 @@
   "treasure": "treasure",
   "freedom": "freedom",
   "welcome_message@parameter": {
-    "name": "StringName"
+    "param1": "StringParam1"
   },
   "item_count@parameter": {
-    "count": "StringCount"
+    "param1": "StringParam1"
   },
   "price_format@parameter": {
-    "price": "StringPrice"
+    "param1": "StringParam1"
   },
   "date_format@parameter": {
-    "day": "StringDay",
-    "month": "StringMonth",
-    "date": "StringDate"
+    "param1": "StringParam1",
+    "param2": "StringParam2",
+    "param3": "StringParam3"
   },
   "complex_message@parameter": {
-    "name": "StringName",
-    "count": "StringCount",
-    "sender": "StringSender"
+    "param1": "StringParam1",
+    "param2": "StringParam2",
+    "param3": "StringParam3"
   }
 }

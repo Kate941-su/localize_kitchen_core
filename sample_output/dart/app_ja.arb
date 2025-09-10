@@ -1,11 +1,11 @@
 {
   "@@locale": "ja",
   "greeting": "こんにちは",
-  "welcome_message": "{name}さん、ようこそ！",
-  "item_count": "{count}個のアイテムがあります",
-  "price_format": "価格: {price}円",
-  "date_format": "今日は{day}、{month}月{date}日です",
-  "complex_message": "こんにちは{name}さん、{sender}から{count}件のメッセージがあります",
+  "welcome_message": "{param1}さん、ようこそ！",
+  "item_count": "{param1}個のアイテムがあります",
+  "price_format": "価格: {param1}円",
+  "date_format": "今日は{param1}、{param2}月{param3}日です",
+  "complex_message": "こんにちは{param1}さん、{param3}から{param2}件のメッセージがあります",
   "frog": "カエル",
   "morning": "朝",
   "butterfly": "蝶",
@@ -37,22 +37,22 @@
   "treasure": "宝物",
   "freedom": "自由",
   "welcome_message@parameter": {
-    "name": "StringName"
+    "param1": "StringParam1"
   },
   "item_count@parameter": {
-    "count": "StringCount"
+    "param1": "StringParam1"
   },
   "price_format@parameter": {
-    "price": "StringPrice"
+    "param1": "StringParam1"
   },
   "date_format@parameter": {
-    "day": "StringDay",
-    "month": "StringMonth",
-    "date": "StringDate"
+    "param1": "StringParam1",
+    "param2": "StringParam2",
+    "param3": "StringParam3"
   },
   "complex_message@parameter": {
-    "name": "StringName",
-    "sender": "StringSender",
-    "count": "StringCount"
+    "param1": "StringParam1",
+    "param3": "StringParam3",
+    "param2": "StringParam2"
   }
 }

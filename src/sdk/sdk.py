@@ -3,4 +3,5 @@ sdk_list = [
     "android_studio",
     "flutter",
     "react_native",
+    "react",
 ]
