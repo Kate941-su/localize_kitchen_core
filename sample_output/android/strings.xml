@@ -1,6 +1,11 @@
 <?xml version="1.0" ?>
 <resources>
     <string name="greeting">Hello</string>
+    <string name="welcome_message">Welcome, {name}!</string>
+    <string name="item_count">You have {count} items</string>
+    <string name="price_format">Price: ${price}</string>
+    <string name="date_format">Today is {day}, {month} {date}</string>
+    <string name="complex_message">Hello {name}, you have {count} messages from {sender}</string>
     <string name="frog">frog</string>
     <string name="morning">morning</string>
     <string name="butterfly">butterfly</string>

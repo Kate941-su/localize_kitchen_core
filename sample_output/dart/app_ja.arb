@@ -1,6 +1,11 @@
 {
   "@@locale": "ja",
   "greeting": "こんにちは",
+  "welcome_message": "{name}さん、ようこそ！",
+  "item_count": "{count}個のアイテムがあります",
+  "price_format": "価格: {price}円",
+  "date_format": "今日は{day}、{month}月{date}日です",
+  "complex_message": "こんにちは{name}さん、{sender}から{count}件のメッセージがあります",
   "frog": "カエル",
   "morning": "朝",
   "butterfly": "蝶",
@@ -30,5 +35,24 @@
   "bridge": "橋",
   "castle": "城",
   "treasure": "宝物",
-  "freedom": "自由"
+  "freedom": "自由",
+  "welcome_message@parameter": {
+    "name": "StringName"
+  },
+  "item_count@parameter": {
+    "count": "StringCount"
+  },
+  "price_format@parameter": {
+    "price": "StringPrice"
+  },
+  "date_format@parameter": {
+    "day": "StringDay",
+    "month": "StringMonth",
+    "date": "StringDate"
+  },
+  "complex_message@parameter": {
+    "name": "StringName",
+    "sender": "StringSender",
+    "count": "StringCount"
+  }
 }

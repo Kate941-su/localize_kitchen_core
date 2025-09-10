@@ -1,6 +1,11 @@
 {
   "@@locale": "en",
   "greeting": "Hello",
+  "welcome_message": "Welcome, {name}!",
+  "item_count": "You have {count} items",
+  "price_format": "Price: ${price}",
+  "date_format": "Today is {day}, {month} {date}",
+  "complex_message": "Hello {name}, you have {count} messages from {sender}",
   "frog": "frog",
   "morning": "morning",
   "butterfly": "butterfly",
@@ -30,5 +35,24 @@
   "bridge": "bridge",
   "castle": "castle",
   "treasure": "treasure",
-  "freedom": "freedom"
+  "freedom": "freedom",
+  "welcome_message@parameter": {
+    "name": "StringName"
+  },
+  "item_count@parameter": {
+    "count": "StringCount"
+  },
+  "price_format@parameter": {
+    "price": "StringPrice"
+  },
+  "date_format@parameter": {
+    "day": "StringDay",
+    "month": "StringMonth",
+    "date": "StringDate"
+  },
+  "complex_message@parameter": {
+    "name": "StringName",
+    "count": "StringCount",
+    "sender": "StringSender"
+  }
 }
