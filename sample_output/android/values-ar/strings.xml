@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<resources>
+    <string name="greeting">مرحبا</string>
+    <string name="frog">ضفدع</string>
+    <string name="morning">صباح</string>
+    <string name="butterfly">فراشة</string>
+    <string name="mountain">جبل</string>
+    <string name="ocean">محيط</string>
+    <string name="guitar">جيتار</string>
+    <string name="rainbow">قوس قزح</string>
+    <string name="dragon">تنين</string>
+    <string name="crystal">بلورة</string>
+    <string name="whisper">همس</string>
+    <string name="thunder">رعد</string>
+    <string name="moonlight">ضوء القمر</string>
+    <string name="adventure">مغامرة</string>
+    <string name="harmony">تناغم</string>
+    <string name="journey">رحلة</string>
+    <string name="serenity">هدوء</string>
+    <string name="courage">شجاعة</string>
+    <string name="wisdom">حكمة</string>
+    <string name="laughter">ضحك</string>
+    <string name="sunset">غروب الشمس</string>
+    <string name="forest">غابة</string>
+    <string name="river">نهر</string>
+    <string name="eagle">نسر</string>
+    <string name="dolphin">دلفين</string>
+    <string name="candle">شمعة</string>
+    <string name="mirror">مرآة</string>
+    <string name="bridge">جسر</string>
+    <string name="castle">قلعة</string>
+    <string name="treasure">كنز</string>
+    <string name="freedom">حرية</string>
+</resources>

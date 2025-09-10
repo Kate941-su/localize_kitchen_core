@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<resources>
+    <string name="greeting">Hello</string>
+    <string name="frog">frog</string>
+    <string name="morning">morning</string>
+    <string name="butterfly">butterfly</string>
+    <string name="mountain">mountain</string>
+    <string name="ocean">ocean</string>
+    <string name="guitar">guitar</string>
+    <string name="rainbow">rainbow</string>
+    <string name="dragon">dragon</string>
+    <string name="crystal">crystal</string>
+    <string name="whisper">whisper</string>
+    <string name="thunder">thunder</string>
+    <string name="moonlight">moonlight</string>
+    <string name="adventure">adventure</string>
+    <string name="harmony">harmony</string>
+    <string name="journey">journey</string>
+    <string name="serenity">serenity</string>
+    <string name="courage">courage</string>
+    <string name="wisdom">wisdom</string>
+    <string name="laughter">laughter</string>
+    <string name="sunset">sunset</string>
+    <string name="forest">forest</string>
+    <string name="river">river</string>
+    <string name="eagle">eagle</string>
+    <string name="dolphin">dolphin</string>
+    <string name="candle">candle</string>
+    <string name="mirror">mirror</string>
+    <string name="bridge">bridge</string>
+    <string name="castle">castle</string>
+    <string name="treasure">treasure</string>
+    <string name="freedom">freedom</string>
+</resources>

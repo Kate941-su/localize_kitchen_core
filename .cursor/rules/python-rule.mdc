@@ -1,0 +1,7 @@
+---
+description:
+# Environment
+Before executing python file or resolving dependencies you must activate virtual env by executing 'source bin/activate'
+globs:
+alwaysApply: true
+---

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<resources>
+    <string name="greeting">こんにちは</string>
+    <string name="frog">カエル</string>
+    <string name="morning">朝</string>
+    <string name="butterfly">蝶</string>
+    <string name="mountain">山</string>
+    <string name="ocean">海</string>
+    <string name="guitar">ギター</string>
+    <string name="rainbow">虹</string>
+    <string name="dragon">竜</string>
+    <string name="crystal">水晶</string>
+    <string name="whisper">ささやき</string>
+    <string name="thunder">雷</string>
+    <string name="moonlight">月光</string>
+    <string name="adventure">冒険</string>
+    <string name="harmony">調和</string>
+    <string name="journey">旅</string>
+    <string name="serenity">静寂</string>
+    <string name="courage">勇気</string>
+    <string name="wisdom">知恵</string>
+    <string name="laughter">笑い</string>
+    <string name="sunset">夕日</string>
+    <string name="forest">森</string>
+    <string name="river">川</string>
+    <string name="eagle">鷲</string>
+    <string name="dolphin">イルカ</string>
+    <string name="candle">ろうそく</string>
+    <string name="mirror">鏡</string>
+    <string name="bridge">橋</string>
+    <string name="castle">城</string>
+    <string name="treasure">宝物</string>
+    <string name="freedom">自由</string>
+</resources>
